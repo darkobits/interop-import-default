@@ -30,4 +30,6 @@ jobs:
       - name: Build
         run: npx nr build
       - name: Test
-        run: npx nr test
+        run: |
+          npx nr test.coverage
+          bash <(curl -s https://codecov.io/bash)
