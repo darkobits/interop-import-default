@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/441546/101534081-831d5480-394b-11eb-9668-1b469c3674ef.png" style="max-width: 100%" />
+<img src="https://user-images.githubusercontent.com/441546/220508514-6d5641f6-0662-40df-9516-6ad8e9d9fe6a.png" style="max-width: 100%" />
 <p align="center">
   <a href="https://www.npmjs.com/package/@darkobits/interop-import-default"><img src="https://img.shields.io/npm/v/@darkobits/interop-import-default.svg?style=flat-square&color=398AFB"></a>
   <a href="https://github.com/darkobits/interop-import-default/actions?query=workflow%3Aci"><img src="https://img.shields.io/github/actions/workflow/status/darkobits/interop-import-default/ci.yml?style=flat-square"></a>
@@ -38,8 +38,8 @@ package's default export may be on a property key `default` on the value importe
 import wonkyExport from 'wonky';
 const wonky = wonkyExport.default;
 
-// Now, typeof wonky is incorrect; IntelliSense is broken, and TypeScript will
-// throw errors.
+// Now, typeof wonky is incorrect; IntelliSense is broken, and
+// TypeScript will throw errors.
 ```
 
 Furthermore, you may run into cases where your code behaves differently in different runtime
@@ -58,6 +58,8 @@ the type of the parameter provided, so TypeScript will always be happy. 🌈
 
 ```ts
 import wonkyExport from 'wonky';
+import { interopImportDefault } from '@darkobits/interop-import-default';
+
 const wonky = interopImportDefault(wonkyExport);
 
 // Use `wonky` as the developer intended.
