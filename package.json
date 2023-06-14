@@ -1,7 +1,7 @@
 {
   "name": "@darkobits/interop-import-default",
   "version": "0.1.1",
-  "license": "WTFPL",
+  "license": "Hippocratic",
   "description": "TypeScript-friendly utility for extracting default exports from tricky packages.",
   "author": "darkobits",
   "engines": {

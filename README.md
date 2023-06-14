@@ -1,10 +1,42 @@
-<img src="https://user-images.githubusercontent.com/441546/220508514-6d5641f6-0662-40df-9516-6ad8e9d9fe6a.png" style="max-width: 100%" />
 <p align="center">
-  <a href="https://www.npmjs.com/package/@darkobits/interop-import-default"><img src="https://img.shields.io/npm/v/@darkobits/interop-import-default.svg?style=flat-square&color=398AFB"></a>
-  <a href="https://github.com/darkobits/interop-import-default/actions?query=workflow%3Aci"><img src="https://img.shields.io/github/actions/workflow/status/darkobits/interop-import-default/ci.yml?style=flat-square"></a>
-  <a href="https://app.codecov.io/gh/darkobits/interop-import-default/branch/master"><img src="https://img.shields.io/codecov/c/github/darkobits/interop-import-default/master?style=flat-square&color=brightgreen"></a>
-  <a href="https://depfu.com/github/darkobits/interop-import-default"><img src="https://img.shields.io/depfu/darkobits/interop-import-default?style=flat-square"></a>
-  <a href="https://conventionalcommits.org"><img src="https://img.shields.io/static/v1?label=commits&message=conventional&style=flat-square&color=398AFB"></a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/darkobits/interop-import-default/assets/441546/e0428430-0a46-41ba-b05a-d829e0e9f296"
+      width="100%"
+    >
+    <img
+      src="https://github.com/darkobits/interop-import-default/assets/441546/202dc310-db00-4b70-be03-0165f944ccd1"
+      width="100%"
+    >
+  </picture>
+</p>
+<p align="center">
+  <a
+    href="https://www.npmjs.com/package/@darkobits/interop-import-default"
+  ><img
+    src="https://img.shields.io/npm/v/@darkobits/interop-import-default.svg?style=flat-square"
+  ></a>
+  <a
+    href="https://github.com/darkobits/interop-import-default/actions?query=workflow%3Aci"
+  ><img
+    src="https://img.shields.io/github/actions/workflow/status/darkobits/interop-import-default/ci.yml?style=flat-square"
+  ></a>
+  <a
+    href="https://depfu.com/repos/github/darkobits/interop-import-default"
+  ><img
+    src="https://img.shields.io/depfu/darkobits/interop-import-default?style=flat-square"
+  ></a>
+  <a
+    href="https://conventionalcommits.org"
+  ><img
+    src="https://img.shields.io/static/v1?label=commits&message=conventional&style=flat-square&color=398AFB"
+  ></a>
+  <a
+    href="https://firstdonoharm.dev"
+  ><img
+    src="https://img.shields.io/static/v1?label=license&message=hippocratic&style=flat-square&color=753065"
+  ></a>
 </p>
 
 # Install
