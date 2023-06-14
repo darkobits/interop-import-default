@@ -23,6 +23,11 @@
     src="https://img.shields.io/github/actions/workflow/status/darkobits/interop-import-default/ci.yml?style=flat-square"
   ></a>
   <a
+    href="https://app.codecov.io/gh/darkobits/interop-import-default/branch/master"
+  ><img
+    src="https://img.shields.io/codecov/c/github/darkobits/interop-import-default/master?style=flat-square&color=brightgreen"
+  ></a>
+  <a
     href="https://depfu.com/repos/github/darkobits/interop-import-default"
   ><img
     src="https://img.shields.io/depfu/darkobits/interop-import-default?style=flat-square"
